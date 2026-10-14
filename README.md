@@ -213,3 +213,6 @@ This project stands on other people's work:
 ## License
 
 [GNU General Public License v3.0](LICENSE).
+
+## Disclaimer
+I am no developer or a low level programmer, I am a guy who loves breaking, testing, building security releated tools that helps with my workflow, excpect bugs and errors, thank you.
