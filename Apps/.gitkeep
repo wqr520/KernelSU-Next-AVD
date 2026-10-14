@@ -1,0 +1,2 @@
+# Place KernelSU-Next manager APK or other APKs in this directory.
+# ksuAVD will automatically install them to the running AVD.
